@@ -1,8 +1,8 @@
-# GEOG59950 Programming for Geographical Information Analysis: Core Skills
+# GEOG5415M Programming for Spatial Data Science
 
-All material created & developed by Dr Fran Pontin
+All material created & developed by Dr Fran Pontin and Profesor Nick Malleson 
 
-Contact: F.L.Pontin\@leeds.ac.uk,
+Contact: F.L.Pontin\@leeds.ac.uk, N.S.Malleson@leeds.ac.uk
 
 ## Course Timetable & Content
 
@@ -32,14 +32,12 @@ Contact: F.L.Pontin\@leeds.ac.uk,
 
 ## Materials
 
--   Notebooks for each teaching week will all be available from the start of the module. All materials will also be available on Minerva.
-
 -   Support in the practical sessions will only focus on the new content for that week and supporting with querries from previous weeks.
 
--   Notebook and course materials might appear in the GitHub repo. and Minerva folders in advanced but content may be altered up to the date of delivery.
+-   Notebook and course materials will all be available from the start of the module in the GitHub repo. and on Minerva but content may be altered up to the date of delivery.
 
 #### Assignment templates can be found in the notebooks folder
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />[GEOG59950 Programming for Geographical Information Analysis: Core Skills]{xmlns:dct="http://purl.org/dc/terms/" property="dct:title"} by <a xmlns:cc="http://creativecommons.org/ns#" href="https://orcid.org/0000-0002-7143-8718" property="cc:attributionName" rel="cc:attributionURL">Francesca Pontin</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />[GEOG5415M Programming for Spatial Data Science]{xmlns:dct="http://purl.org/dc/terms/" property="dct:title"} by <a xmlns:cc="http://creativecommons.org/ns#" href="https://orcid.org/0000-0002-7143-8718" property="cc:attributionName" rel="cc:attributionURL">Francesca Pontin</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
