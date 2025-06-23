@@ -5,32 +5,30 @@ All material created & developed by Dr Fran Pontin and Profesor Nick Malleson
 Contact: F.L.Pontin\@leeds.ac.uk, N.S.Malleson@leeds.ac.uk
 
 ## Course Timetable & Content
-
-| **Teaching Week** | **Date** | **Content** | **Assessment** |
-|:---------:|:-----------:|----------------------------------|:---------------------:|
-| 14 | 28/01/2025 | **Week 1:** Getting started with Python | \- |
-|  | 31/01/2025 | Friday drop-in | \- |
-| 15 | 04/02/2025 | **Week 2:** Python data types and dealing with errors | \- |
-|  | 07/02/2025 | Friday drop-in | \- |
-| 16 | 10/02/2025 | **Week 3:** Using and exploring data - data cleaning | \- |
-|  | 14/02/2025 | Friday drop-in | \- |
-| 17 | 18/02/2025 | **Week 4:** Effective data visualisation using Python | \- |
-|  | 21/02/2025 | Friday drop-in | \- |
-| 18 | 25/02/2025 | **Week 5:** Putting it into practice | \- |
-|  | 28/02/2025 | Friday drop-in | \- |
-| 19 | 04/03/2025 | **Week 6:** Python as a GIS | \- |
-|  | 07/03/2025 | Friday drop-in | \- |
-| 20 | 11/03/2025 | **Week 7:** Spatial Data Analysis in Python | \- |
-|  | 14/03/2025 | Friday drop-in | \- |
-| 21 | 18/03/2025 | W**eek 8:** Open Spatial data science: reproducibility, finding data (1) | \- |
-|  | 21/03/2025 | Friday drop-in | \- |
-| 22 | 25/03/2025 | **Week 9:** Introduction to the Final Project. Open Spatial data science: reproducibility, finding data (2) | Portfolio due 2pm 25/03/2025 |
-|  | 28/03/2025 | Friday drop-in | \- |
-| *Easter* | *29/03/2025-27/04/2024* |  | Portfolio feedback by 15/04/2025 |
-| 23 | 29/04/2025 | Supported assignment time, module recap (if needed) | \- |
-|  | 02/05/2025 | Friday drop-in | Final Assessment due 2pm 13/05/2025 |
-
-## Materials
+| **Teaching Week** | Session   | **Date** | **GEOG5990M Content**                                                                                       | GEOG5415M content                                                        | **Assessment** |
+|-------------------|-----------|----------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------|
+| 1                 | Lecture   |          | **Week 1:** Getting started with Python                                                                     | Module Admin, Introduction to Python, Introduction to Data Science Steps | \-             |
+|                   | Practical |          |                                                                                                             | Introduction to Colab and basic Python functions                         | \-             |
+| 2                 | Lecture   |          | **Week 2:** Python data types and dealing with errors                                                       | Python data types and dealing with errors                                | \-             |
+|                   | Practical |          |                                                                                                             |                                                                          | \-             |
+| 3                 | Lecture   |          | **Week 3:** Using and exploring data - data cleaning                                                        | Using and exploring data - data cleaning                                 | \-             |
+|                   | Practical |          |                                                                                                             | .loc function                                                            | \-             |
+| 4                 | Lecture   |          | **Week 4:** Effective data visualisation using Python                                                       | Data Viz. theory                                                         | \-             |
+|                   | Practical |          |                                                                                                             |                                                                          | \-             |
+| 5                 | Lecture   |          | **Week 5:** Putting it into practice                                                                        |                                                                          | \-             |
+|                   | Practical |          |                                                                                                             |                                                                          | \-             |
+| 6                 | Lecture   |          | **Week 6:** Python as a GIS                                                                                 | CRS, spatial and non-spatial joins,                                      | \-             |
+|                   | Practical |          |                                                                                                             |                                                                          | \-             |
+| 7                 | Lecture   |          | **Week 7:** Spatial Data Analysis in Python                                                                 | Spatial statistics?                                                      | \-             |
+|                   | Practical |          |                                                                                                             |                                                                          | \-             |
+| 8                 | Lecture   |          | *W*eek 8:** Open Spatial data science: reproducibility, finding data (1)                                    | Open science and reproducibility - responsible data science              | \-             |
+|                   | Practical |          |                                                                                                             |                                                                          | \-             |
+| 9                 | Lecture   |          | **Week 9:** Introduction to the Final Project. Open Spatial data science: reproducibility, finding data (2) | GitHub and Git theory, collaborative working, version control            |                |
+|                   | Practical |          |                                                                                                             | GitHub and Git in practice                                               | \-             |
+| 10                | Lecture   |          |                                                                                                             |                                                                          |                |
+|                   | Practical |          |                                                                                                             |                                                                          |                |
+| 11                | Lecture   |          | Supported assignment time, module recap (if needed)                                                         |                                                                          | \-             |
+|                   | Practical |          | Friday drop-in                                                                                              |                                                                          |                |
 
 -   Support in the practical sessions will only focus on the new content for that week and supporting with querries from previous weeks.
 
