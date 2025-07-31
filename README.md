@@ -5,7 +5,7 @@ All material created & developed by Dr Fran Pontin and Profesor Nick Malleson
 Contact: F.L.Pontin\@leeds.ac.uk, N.S.Malleson@leeds.ac.uk
 
 ## Course Timetable & Content
-| **Teaching Week** | Session   | **Date** | **GEOG5990M Content**                                                                                       | GEOG5415M content                                                                                | **Assessment** |
+| **Teaching Week** | Session   | **Date** | **GEOG5414M Content**                                                                                       | GEOG5415M content                                                                                | **Assessment** |
 |-------------------|-----------|----------|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------|
 | 1                 | Lecture   |          | **Week 1:** Getting started with Python                                                                     | Module Admin, Introduction to Python, Introduction to Data Science Steps/pipeline                | \-             |
 |                   | Practical |          |                                                                                                             | Introduction to Colab and basic Python functions                                                 | \-             |
