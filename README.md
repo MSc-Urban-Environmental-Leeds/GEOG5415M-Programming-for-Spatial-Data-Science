@@ -1,5 +1,7 @@
 # GEOG5415M Programming for Spatial Data Science
 
+Welcome to GEOG5415! Important: **The material for this course is under development and may change in the weeks before a lecture**. If you are keen and reading this a long time in advance of a lecture, please keep this in mind.
+
 All material created & developed by Dr Fran Pontin and Profesor Nick Malleson 
 
 Contact: F.L.Pontin\@leeds.ac.uk, N.S.Malleson@leeds.ac.uk
@@ -27,7 +29,7 @@ Contact: F.L.Pontin\@leeds.ac.uk, N.S.Malleson@leeds.ac.uk
 |                   | Practical |          |                                                                                                             | command line, installing anaconda, creating environments, IDEs (.yml etc),                       | \-             |          |
 | 10                | Lecture   |          |                                                                                                             | GitHub and Git theory, collaborative working, version control                                    |                |   Nick   |
 |                   | Practical |          |                                                                                                             | GitHub and Git in practice                                                                       |                |          |
-| 11                | Lecture   |          | Supported assignment time, module recap (if needed)                                                         |                                                                                                  | \-             |   Both
+| 11                | Lecture   |          | Supported assignment time, module recap (if needed)                                                         |                                                                                                  | \-             |   Both   |
 |                   | Practical |          |                                                                                                             |                                                                                                  |                |          |
 
 -   Support in the practical sessions will only focus on the new content for that week and supporting with querries from previous weeks.
