@@ -1,4 +1,4 @@
-datetime,Rainfall amount (millimetres)
+datetime,rainfall_mm
 2011-01-01,0.0
 2011-01-02,0.4
 2011-01-03,0.0
