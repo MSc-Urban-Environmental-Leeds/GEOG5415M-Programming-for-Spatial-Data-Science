@@ -1,4 +1,4 @@
-school_holiday,datetime
+school_holiday,date
 1,01/01/2012
 1,02/01/2012
 1,03/01/2012
