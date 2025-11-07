@@ -3,6 +3,8 @@
 .DS_Store
 *.pyc
 
+**/.idea/
+
 anaconda_projects/
 
 !data/processed/
