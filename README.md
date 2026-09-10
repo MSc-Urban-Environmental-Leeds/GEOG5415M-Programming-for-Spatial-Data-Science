@@ -4,13 +4,13 @@ Welcome to GEOG5415! Important: **The lab material for this course is under deve
 
 All material created & developed by Dr Fran Pontin and Profesor Nick Malleson 
 
-Contact: F.L.Pontin\@leeds.ac.uk, N.S.Malleson@leeds.ac.uk
+Contact: N.S.Malleson\@leeds.ac.uk
 
 ## Course Timetable & Content
 
-_Timetable tbc_.
+-   The course is taught with one four-hour lecture + practical session.
 
--   Support in the practical sessions will only focus on the new content for that week and supporting with querries from previous weeks.
+-   Support in the practical sessions will focus on the new content for that week and supporting with queries from previous weeks.
 
 -   Notebook and course materials will all be available from the start of the module in the GitHub repo. and on Minerva but content may be altered up to the date of delivery.
 
