@@ -7,6 +7,9 @@
 
 anaconda_projects/
 
+# osmnx query cache
+notebooks/cache/
+
 !data/processed/
 data/processed/*
 data/raw/*

@@ -32,5 +32,3 @@ codecov
 black
 pre-commit
 jupyterlab>=1.0
-jupyter==1.0.0
-jupyter-contrib-nbextensions==0.5.0
