@@ -2,7 +2,7 @@
 
 Welcome to GEOG5415! Important: **The lab material for this course is under development and may change in the weeks before a lecture**. If you are keen and starting to work on your lab classes a long time in advance of a lecture, please keep this in mind.
 
-All material created & developed by Dr Fran Pontin and Profesor Nick Malleson 
+All material created & developed by Dr Fran Pontin and Profesor Nick Malleson, and now maintained by Professor Nick Malleson.
 
 Contact: N.S.Malleson\@leeds.ac.uk
 
